@@ -36,3 +36,11 @@ body {
     width: 35%;
 
 }
+
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
